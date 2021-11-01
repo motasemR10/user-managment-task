@@ -1,0 +1,3 @@
+"2021-11-01 21:04:07 [RMI TCP Connection(10)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+""2021-11-01 21:04:07 [RMI TCP Connection(10)-127.0.0.1] INFO  org.mongodb.driver.connection - Closed connection [connectionId{localValue:3, serverValue:180}] to localhost:27017 because the pool has been closed.
+"
